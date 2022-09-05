@@ -1,0 +1,142 @@
+﻿@model E_Shop.Models.ViewModels.ProductVM
+@{
+    ViewBag.Title = "Create";
+}
+
+<div class="row">
+    <div class="col">
+        @using (Ajax.BeginForm(new AjaxOptions { HttpMethod = "POST", InsertionMode = InsertionMode.Replace, UpdateTargetId = "msg", OnComplete = "clearAll" }))
+        {
+            @Html.AntiForgeryToken();
+            <h2 class="display-4">Add new Product</h2>
+
+            <div class="row mb-2">
+                @Html.LabelFor(x => x.ProductName, new { @class = "col-form-label col-form-label-sm col-2 r" })
+                <div class="col-6">
+                    @Html.TextBoxFor(x => x.ProductName, new { @class = "form-control form-control-sm r" })
+                </div>
+                <div class="col-4">
+                    @Html.ValidationMessageFor(x => x.ProductName, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="row mb-2">
+                @Html.LabelFor(x => x.Price, new { @class = "col-form-label col-form-label-sm col-2 r" })
+                <div class="col-6">
+                    @Html.TextBoxFor(x => x.Price, new { @class = "form-control form-control-sm r" })
+                </div>
+                <div class="col-4">
+                    @Html.ValidationMessageFor(x => x.Price, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="row mb-2">
+                @Html.LabelFor(x => x.Quantity, htmlAttributes: new { @class = "col-form-label col-form-label-sm col-2 r" })
+                <div class="col-6">
+                    @Html.EditorFor(x => x.Quantity, new { htmlAttributes = new { @class = "form-control form-control-sm r" } })
+                </div>
+                <div class="col-4">
+                    @Html.ValidationMessageFor(x => x.Quantity, "", new { @class = "text-danger" })
+                </div>
+
+
+                @*<div class="row mb-2">
+                    @Html.LabelFor(x => x.Stock, new { @class = "col-form-label col-form-label-sm col-2 r" })
+                    <div class="col-6">
+            @Html.RadioButtonFor(x => x.Stock, "StockIn", new { htmlAttributes = new { @class = "form-control" } })
+            StockIn
+            @Html.RadioButtonFor(x => x.Stock, "StockOut", new { htmlAttributes = new { @class = "form-control" } })
+            StockOut
+        </div>*@
+                @*<div class="col-md-6" style="margin-left:3px;">
+            @Html.CheckBox("StockIn", false)
+        </div>*@
+                @*<div class="col-4">
+            @Html.ValidationMessageFor(x => x.Stock, "", new { @class = "text-danger" })
+        </div>*@
+                @*<div class="col-6">
+            @Html.RadioButtonFor(x => x.Gender, "Male")
+            Male
+            @Html.RadioButtonFor(x => x.Gender, "Female")
+            Female
+            @Html.RadioButtonFor(x => x.Gender, "Others")
+            Others
+        </div>*@
+
+
+
+                <div class="row mb-2">
+                    @Html.LabelFor(x => x.SalesDate, new { @class = "col-form-label col-form-label-sm col-2 r" })
+                    <div class="col-6">
+                        @Html.TextBoxFor(x => x.SalesDate, new { @class = "form-control form-control-sm r", type = "date" })
+                    </div>
+                    <div class="col-4">
+                        @Html.ValidationMessageFor(x => x.SalesDate, "", new { @class = "text-danger" })
+                    </div>
+
+                </div>
+                <div class="row mb-2">
+                    @Html.LabelFor(x => x.Picture, new { @class = "col-form-label col-form-label-sm col-2 r" })
+                    <div class="col-6">
+                        @Html.TextBoxFor(x => x.Picture, new { @class = "form-control form-control-sm r", type = "file" })
+                    </div>
+                    <div class="col-4">
+                        @Html.ValidationMessageFor(x => x.Picture, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="row mb-2">
+                    @Html.LabelFor(x => x.CategoryId, new { @class = "col-form-label col-form-label-sm col-2 r" })
+                    <div class="col-6">
+                        @Html.DropDownListFor(x => x.CategoryId, ViewBag.CategorId as SelectList, "----Select-----", new { @class = "form-control form-control-sm form-select" })
+                    </div>
+                    <div class="col-4"> 
+                        @Html.ValidationMessageFor(x => x.CategoryId, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="row mb-2">
+                    @Html.LabelFor(x => x.isAvailable, new { @class = "col-form-label-sm col-2 r" })
+                    <div class="col-6">
+                        @Html.CheckBoxFor(x => x.isAvailable)
+                    </div>
+                    <div class="col-6">
+                        @Html.ValidationMessageFor(x => x.isAvailable, "", new { @class = "text-dander" })
+                    </div>
+                </div>
+
+
+                <div class="row mb-2">
+                    <div class="col-10 offset-2">
+                        <button type="submit" class="btn btn-success"><i class="bi bi-save"></i> Save</button>
+                        <button type="reset" class="btn btn-danger"><i class="bi bi-cancle"></i>Cancel</button>
+                    </div>
+                </div>
+                <div class="row mb-1">
+                    <div id="msg">
+                    </div>
+                </div>
+
+            </div>
+           
+        }
+
+    </div>
+    <div>
+        <a href="@Url.Action("Index","Products")" class="btn btn-link btn-sm"><i class="bi bi-arrow-left"></i> Back to list</a>
+    </div>
+</div>
+
+
+
+
+@section scripts{
+    <script src="~/Scripts/jquery-3.6.0.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+
+    <script>
+        $("#form0").attr("enctype", "multipart/form-data")
+        function clearAll() {
+            $("#form0").trigger("reset");
+        }
+    </script>
+}

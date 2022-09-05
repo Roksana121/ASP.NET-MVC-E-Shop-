@@ -1,0 +1,51 @@
+﻿@model E_Shop.Models.Category
+@{
+    ViewBag.Title = "Delete";
+}
+
+ <div class="row">
+    <div class="col">
+        <h2 class="alert alert-warning">Delete Category List</h2>
+        <h3>Are you sure you want to delete this?</h3>
+
+        @using (Ajax.BeginForm(new AjaxOptions { HttpMethod = "POST", InsertionMode = InsertionMode.Replace, UpdateTargetId = "msg", OnComplete = "clearAll" }))
+        {
+            @Html.AntiForgeryToken()
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            @Html.HiddenFor(x => x.CategoryId)
+            <div class="row mb-1">
+                @Html.LabelFor(x => x.CategoryName, new { @class = "col-form-label col-form-label-sm col-2 r" })
+                <div class="col-6">
+                    @Html.EditorFor(x => x.CategoryName, new { @class = "form-control form-control-sm r" })
+                </div>
+                <div class="col-4">
+                    @Html.ValidationMessageFor(x => x.CategoryName, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="row mb-2">
+                <div class="col-10 offset-2">
+                    <button type="submit" class="btn btn-danger">Confirm Delete</button>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+<div class="row">
+    <div class="d-flex justify-content-start">
+        <a href="@Url.Action("Index","Categories")" class="card-link"><i class="fa fa-arrow-left"></i>Back to the list</a>
+    </div>
+</div>
+
+@section scripts{
+    <script src="~/Scripts/jquery-3.6.0.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+
+    <script>
+        function clearAll() {
+            $("#form0").trigger("reset");
+        }
+    </script>
+}

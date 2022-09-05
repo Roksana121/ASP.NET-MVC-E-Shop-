@@ -1,0 +1,659 @@
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\E-Shop.dll.config
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\E-Shop.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\E-Shop.pdb
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\csc.exe
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\csc.exe.config
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\csc.rsp
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\csi.exe
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\csi.exe.config
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\csi.rsp
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\Microsoft.Managed.Core.targets
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.AppContext.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.Collections.Immutable.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.Console.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.Globalization.Calendars.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.IO.Compression.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.IO.FileSystem.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.Net.Http.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.Net.Sockets.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.Reflection.Metadata.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.ValueTuple.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.Xml.XmlDocument.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.Xml.XPath.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\vbc.exe
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\vbc.exe.config
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\vbc.rsp
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\VBCSCompiler.exe
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\VBCSCompiler.exe.config
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\EntityFramework.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\EntityFramework.SqlServer.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.AspNet.Identity.Core.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.Owin.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.Owin.Security.Cookies.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.Owin.Security.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.Web.Infrastructure.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\Owin.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\PagedList.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\PagedList.Mvc.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\System.Web.Helpers.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\System.Web.Mvc.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\System.Web.Razor.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\System.Web.Webpages.Deployment.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\System.Web.Webpages.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\System.Web.Webpages.Razor.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\EntityFramework.xml
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\EntityFramework.SqlServer.xml
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.AspNet.Identity.Core.xml
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.Owin.xml
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.Owin.Security.xml
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.Owin.Security.Cookies.xml
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\PagedList.xml
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\PagedList.Mvc.xml
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\System.Web.Razor.xml
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\System.Web.Webpages.xml
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\System.Web.Webpages.Deployment.xml
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\System.Web.Webpages.Razor.xml
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\System.Web.Helpers.xml
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\System.Web.Mvc.xml
+D:\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\1266242_MVC_Project\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.AssemblyReference.cache
+D:\1266242_MVC_Project\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.CoreCompileInputs.cache
+D:\1266242_MVC_Project\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.CopyComplete
+D:\1266242_MVC_Project\E-Shop\E-Shop\obj\Debug\E-Shop.dll
+D:\1266242_MVC_Project\E-Shop\E-Shop\obj\Debug\E-Shop.pdb
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\E-Shop.dll.config
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\E-Shop.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\E-Shop.pdb
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\csc.exe
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\csc.exe.config
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\csc.rsp
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\csi.exe
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\csi.exe.config
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\csi.rsp
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\Microsoft.Managed.Core.targets
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.AppContext.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.Collections.Immutable.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.Console.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.Globalization.Calendars.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.IO.Compression.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.IO.FileSystem.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.Net.Http.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.Net.Sockets.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.Reflection.Metadata.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.ValueTuple.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.Xml.XmlDocument.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.Xml.XPath.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\vbc.exe
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\vbc.exe.config
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\vbc.rsp
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\VBCSCompiler.exe
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\VBCSCompiler.exe.config
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\EntityFramework.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\EntityFramework.SqlServer.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.AspNet.Identity.Core.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.Owin.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.Owin.Security.Cookies.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.Owin.Security.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.Web.Infrastructure.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\Owin.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\PagedList.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\PagedList.Mvc.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\System.Web.Helpers.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\System.Web.Mvc.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\System.Web.Razor.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\System.Web.Webpages.Deployment.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\System.Web.Webpages.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\System.Web.Webpages.Razor.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\EntityFramework.xml
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\EntityFramework.SqlServer.xml
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.AspNet.Identity.Core.xml
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.Owin.xml
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.Owin.Security.xml
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.Owin.Security.Cookies.xml
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\PagedList.xml
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\PagedList.Mvc.xml
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\System.Web.Razor.xml
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\System.Web.Webpages.xml
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\System.Web.Webpages.Deployment.xml
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\System.Web.Webpages.Razor.xml
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\System.Web.Helpers.xml
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\System.Web.Mvc.xml
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.CoreCompileInputs.cache
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.CopyComplete
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\obj\Debug\E-Shop.dll
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\obj\Debug\E-Shop.pdb
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.AssemblyReference.cache
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\obj\Debug\E_Shop.Migrations.ScriptA.resources
+G:\USB_IRA\1266242_MVC_Project\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.GenerateResource.cache
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\E-Shop.dll.config
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\E-Shop.dll
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\E-Shop.pdb
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\csc.exe
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\csc.exe.config
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\csc.rsp
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\csi.exe
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\csi.exe.config
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\csi.rsp
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\EntityFramework.dll
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\EntityFramework.SqlServer.dll
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.AspNet.Identity.Core.dll
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.Owin.dll
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.Owin.Security.Cookies.dll
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.Owin.Security.dll
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.Web.Infrastructure.dll
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\Owin.dll
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\PagedList.dll
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\PagedList.Mvc.dll
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\System.Web.Helpers.dll
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\System.Web.Mvc.dll
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\System.Web.Razor.dll
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\System.Web.Webpages.Deployment.dll
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\System.Web.Webpages.dll
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\System.Web.Webpages.Razor.dll
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\EntityFramework.xml
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\EntityFramework.SqlServer.xml
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.AspNet.Identity.Core.xml
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.Owin.xml
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.Owin.Security.xml
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.Owin.Security.Cookies.xml
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\PagedList.xml
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\PagedList.Mvc.xml
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\System.Web.Razor.xml
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\System.Web.Webpages.xml
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\System.Web.Webpages.Deployment.xml
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\System.Web.Webpages.Razor.xml
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\System.Web.Helpers.xml
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\System.Web.Mvc.xml
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\1266242_MVC_Project\E-Shop\E-Shop\obj\Debug\E_Shop.Migrations.ScriptA.resources
+E:\1266242_MVC_Project\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.GenerateResource.cache
+E:\1266242_MVC_Project\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.CoreCompileInputs.cache
+E:\1266242_MVC_Project\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.CopyComplete
+E:\1266242_MVC_Project\E-Shop\E-Shop\obj\Debug\E-Shop.dll
+E:\1266242_MVC_Project\E-Shop\E-Shop\obj\Debug\E-Shop.pdb
+E:\1266242_MVC_Project\E-Shop\E-Shop\obj\Debug\E_Shop.Migrations.ScriptsA.resources
+E:\1266242_MVC_Project\E-Shop\E-Shop\obj\Debug\E_Shop.Migrations.ScriptsA1.resources
+E:\1266242_MVC_Project\E-Shop\E-Shop\obj\Debug\E_Shop.Migrations.ScriptsA2.resources
+E:\1266242_MVC_Project\E-Shop\E-Shop\obj\Debug\E_Shop.Migrations.ScriptsA3.resources
+E:\1266242_MVC_Project\E-Shop\E-Shop\obj\Debug\E_Shop.Migrations.ScriptsA4.resources
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\CrystalDecisions.CrystalReports.Engine.dll
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\CrystalDecisions.ReportSource.dll
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\CrystalDecisions.Shared.dll
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\1266242_MVC_Project\E-Shop\E-Shop\bin\stdole.dll
+E:\1266242_MVC_Project\E-Shop\E-Shop\obj\Debug\E_Shop.Migrations.ScriptsA5.resources
+E:\1266242_MVC_Project\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\E-Shop.dll.config
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\E-Shop.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\E-Shop.pdb
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\CrystalDecisions.Shared.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\Microsoft.Owin.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\Owin.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\PagedList.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\System.Web.Webpages.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\System.Web.Webpages.Razor.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\stdole.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\Microsoft.Owin.xml
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\PagedList.xml
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\System.Web.Webpages.xml
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\System.Web.Webpages.Razor.xml
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\E-Shop\E-Shop\obj\Debug\E_Shop.Migrations.ScriptA.resources
+C:\Users\Admin\Desktop\E-Shop\E-Shop\obj\Debug\E_Shop.Migrations.ScriptsA.resources
+C:\Users\Admin\Desktop\E-Shop\E-Shop\obj\Debug\E_Shop.Migrations.ScriptsA1.resources
+C:\Users\Admin\Desktop\E-Shop\E-Shop\obj\Debug\E_Shop.Migrations.ScriptsA2.resources
+C:\Users\Admin\Desktop\E-Shop\E-Shop\obj\Debug\E_Shop.Migrations.ScriptsA3.resources
+C:\Users\Admin\Desktop\E-Shop\E-Shop\obj\Debug\E_Shop.Migrations.ScriptsA4.resources
+C:\Users\Admin\Desktop\E-Shop\E-Shop\obj\Debug\E_Shop.Migrations.ScriptsA5.resources
+C:\Users\Admin\Desktop\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.CopyComplete
+C:\Users\Admin\Desktop\E-Shop\E-Shop\obj\Debug\E-Shop.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\obj\Debug\E-Shop.pdb
+C:\Users\Admin\Desktop\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\roslyn\System.Buffers.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\roslyn\System.Memory.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\E-Shop\E-Shop\bin\roslyn\VBCSCompiler.exe.config
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\E-Shop.dll.config
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\E-Shop.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\E-Shop.pdb
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\roslyn\csc.exe
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\roslyn\csc.exe.config
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\roslyn\csc.rsp
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\roslyn\csi.exe
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\roslyn\csi.exe.config
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\roslyn\csi.rsp
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\roslyn\System.Buffers.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\roslyn\System.Collections.Immutable.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\roslyn\System.Memory.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\roslyn\System.Numerics.Vectors.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\roslyn\System.Reflection.Metadata.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\roslyn\vbc.exe
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\roslyn\vbc.exe.config
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\roslyn\vbc.rsp
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\roslyn\VBCSCompiler.exe
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\roslyn\VBCSCompiler.exe.config
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\CrystalDecisions.ReportSource.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\CrystalDecisions.Shared.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\EntityFramework.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\EntityFramework.SqlServer.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\Microsoft.Owin.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\Microsoft.Owin.Security.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\Owin.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\PagedList.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\PagedList.Mvc.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\System.Web.Helpers.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\System.Web.Mvc.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\System.Web.Razor.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\System.Web.WebPages.Deployment.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\System.Web.WebPages.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\System.Web.WebPages.Razor.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\stdole.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\EntityFramework.xml
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\EntityFramework.SqlServer.xml
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\Microsoft.Owin.xml
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\Microsoft.Owin.Security.xml
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\PagedList.xml
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\PagedList.Mvc.xml
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\System.Web.Helpers.xml
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\System.Web.Mvc.xml
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\System.Web.Razor.xml
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\System.Web.WebPages.xml
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\System.Web.WebPages.Deployment.xml
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\bin\System.Web.WebPages.Razor.xml
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.AssemblyReference.cache
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\obj\Debug\E_Shop.Migrations.ScriptA.resources
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\obj\Debug\E_Shop.Migrations.ScriptsA.resources
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\obj\Debug\E_Shop.Migrations.ScriptsA1.resources
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\obj\Debug\E_Shop.Migrations.ScriptsA2.resources
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\obj\Debug\E_Shop.Migrations.ScriptsA3.resources
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\obj\Debug\E_Shop.Migrations.ScriptsA4.resources
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\obj\Debug\E_Shop.Migrations.ScriptsA5.resources
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.GenerateResource.cache
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.CoreCompileInputs.cache
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.CopyComplete
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\obj\Debug\E-Shop.dll
+D:\ASP.NET MVC All Class\E-Shop\E-Shop\obj\Debug\E-Shop.pdb
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\E-Shop.dll.config
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\E-Shop.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\E-Shop.pdb
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\roslyn\csc.exe
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\roslyn\csc.exe.config
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\roslyn\csc.rsp
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\roslyn\csi.exe
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\roslyn\csi.exe.config
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\roslyn\csi.rsp
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\roslyn\System.Buffers.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\roslyn\System.Collections.Immutable.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\roslyn\System.Memory.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\roslyn\System.Numerics.Vectors.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\roslyn\System.Reflection.Metadata.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\roslyn\vbc.exe
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\roslyn\vbc.exe.config
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\roslyn\vbc.rsp
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\roslyn\VBCSCompiler.exe
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\roslyn\VBCSCompiler.exe.config
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\CrystalDecisions.ReportSource.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\CrystalDecisions.Shared.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\EntityFramework.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\EntityFramework.SqlServer.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\Microsoft.Owin.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\Microsoft.Owin.Security.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\Owin.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\PagedList.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\PagedList.Mvc.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\System.Web.Helpers.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\System.Web.Mvc.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\System.Web.Razor.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\System.Web.WebPages.Deployment.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\System.Web.WebPages.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\System.Web.WebPages.Razor.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\stdole.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\EntityFramework.xml
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\EntityFramework.SqlServer.xml
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\Microsoft.Owin.xml
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\Microsoft.Owin.Security.xml
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\PagedList.xml
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\PagedList.Mvc.xml
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\System.Web.Helpers.xml
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\System.Web.Mvc.xml
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\System.Web.Razor.xml
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\System.Web.WebPages.xml
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\System.Web.WebPages.Deployment.xml
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\bin\System.Web.WebPages.Razor.xml
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.AssemblyReference.cache
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\obj\Debug\E_Shop.Migrations.ScriptA.resources
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\obj\Debug\E_Shop.Migrations.ScriptsA.resources
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\obj\Debug\E_Shop.Migrations.ScriptsA1.resources
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\obj\Debug\E_Shop.Migrations.ScriptsA2.resources
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\obj\Debug\E_Shop.Migrations.ScriptsA3.resources
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\obj\Debug\E_Shop.Migrations.ScriptsA4.resources
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\obj\Debug\E_Shop.Migrations.ScriptsA5.resources
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.GenerateResource.cache
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.CoreCompileInputs.cache
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\obj\Debug\E-Shop.csproj.CopyComplete
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\obj\Debug\E-Shop.dll
+D:\ASP.NET MVC All Class\1266242_MVC PROJEC\E-Shop\E-Shop\obj\Debug\E-Shop.pdb
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\E-Shop.dll.config
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\E-Shop.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\E-Shop.pdb
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\roslyn\csc.exe
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\roslyn\csc.exe.config
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\roslyn\csc.rsp
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\roslyn\csi.exe
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\roslyn\csi.exe.config
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\roslyn\csi.rsp
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\roslyn\System.Buffers.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\roslyn\System.Collections.Immutable.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\roslyn\System.Memory.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\roslyn\System.Numerics.Vectors.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\roslyn\System.Reflection.Metadata.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\roslyn\vbc.exe
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\roslyn\vbc.exe.config
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\roslyn\vbc.rsp
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\roslyn\VBCSCompiler.exe
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\roslyn\VBCSCompiler.exe.config
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\CrystalDecisions.ReportSource.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\CrystalDecisions.Shared.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\EntityFramework.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\EntityFramework.SqlServer.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\Microsoft.Owin.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\Microsoft.Owin.Security.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\Owin.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\PagedList.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\PagedList.Mvc.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\System.Web.Helpers.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\System.Web.Mvc.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\System.Web.Razor.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\System.Web.WebPages.Deployment.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\System.Web.WebPages.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\System.Web.WebPages.Razor.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\stdole.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\EntityFramework.xml
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\EntityFramework.SqlServer.xml
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\Microsoft.Owin.xml
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\Microsoft.Owin.Security.xml
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\PagedList.xml
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\PagedList.Mvc.xml
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\System.Web.Helpers.xml
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\System.Web.Mvc.xml
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\System.Web.Razor.xml
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\System.Web.WebPages.xml
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\System.Web.WebPages.Deployment.xml
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\bin\System.Web.WebPages.Razor.xml
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\obj\Debug\E-Shop.csproj.AssemblyReference.cache
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\obj\Debug\E_Shop.Migrations.ScriptA.resources
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\obj\Debug\E_Shop.Migrations.ScriptsA.resources
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\obj\Debug\E_Shop.Migrations.ScriptsA1.resources
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\obj\Debug\E_Shop.Migrations.ScriptsA2.resources
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\obj\Debug\E_Shop.Migrations.ScriptsA3.resources
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\obj\Debug\E_Shop.Migrations.ScriptsA4.resources
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\obj\Debug\E_Shop.Migrations.ScriptsA5.resources
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\obj\Debug\E-Shop.csproj.GenerateResource.cache
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\obj\Debug\E-Shop.csproj.CoreCompileInputs.cache
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\obj\Debug\E-Shop.csproj.CopyComplete
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\obj\Debug\E-Shop.dll
+D:\ASP.NET MVC All Class\1266242_MVC_Project_E-Shop\E-Shop\obj\Debug\E-Shop.pdb

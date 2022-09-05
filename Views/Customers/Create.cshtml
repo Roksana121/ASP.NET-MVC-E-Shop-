@@ -1,0 +1,77 @@
+﻿@model E_Shop.Models.Customer
+@{
+    ViewBag.Title = "Create";
+}
+
+<div class="row">
+    <div class="col-12">
+        <h2 class="display-4">Add New Customers</h2>
+        @using (Ajax.BeginForm(new AjaxOptions { HttpMethod = "POST", InsertionMode = InsertionMode.Replace, UpdateTargetId = "msg", OnComplete = "clearAll" }))
+        {
+            @Html.AntiForgeryToken()
+            <div class="row mb-1">
+                @Html.LabelFor(x => x.CustomerName, new { @class = "col-form-label col-form-label-sm col-2 r" })
+                <div class="col-6">
+                    @Html.TextBoxFor(x => x.CustomerName, new { @class = "form-control form-control-sm r" })
+                </div>
+                <div class="col-4">
+                    @Html.ValidationMessageFor(x => x.CustomerName, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="row mb-1">
+                @Html.LabelFor(x => x.Email, new { @class = "col-form-label col-form-label-sm col-2 r" })
+                <div class="col-6">
+                    @Html.TextBoxFor(x => x.Email, new { @class = "form-control form-control-sm r" })
+                </div>
+                <div class="col-4">
+                    @Html.ValidationMessageFor(x => x.Email, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="row mb-1">
+                @Html.LabelFor(x => x.Address, new { @class = "col-form-label col-form-label-sm col-2 r" })
+                <div class="col-6">
+                    @Html.TextBoxFor(x => x.Address, new { @class = "form-control form-control-sm r" })
+                </div>
+                <div class="col-4">
+                    @Html.ValidationMessageFor(x => x.Address, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="row mb-1">
+                @Html.LabelFor(x => x.PhoneNo, new { @class = "col-form-label col-form-label-sm col-2 r" })
+                <div class="col-6">
+                    @Html.TextBoxFor(x => x.PhoneNo, new { @class = "form-control form-control-sm r" })
+                </div>
+                <div class="col-4">
+                    @Html.ValidationMessageFor(x => x.PhoneNo, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="row mb-1">
+                <div class="col-10 offset-2">
+                    <button class="btn btn-primary col-sm"><i class="bi bi-save"></i> Save</button>
+                    <button type="reset" class="btn btn-danger"><i class="bi bi-cancle"></i>Cancel</button>
+                </div>
+            </div>
+
+        }
+    </div>
+    <div class="d-flex justify-content-start">
+        <a href="@Url.Action("Index","Customers")" class="btn btn-link btn-sm mb-2"><i class="fa fa-arrow-left"></i>Back to list</a>
+    </div>
+</div>
+@section scripts{
+    <script src="~/Scripts/jquery-3.6.0.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+
+    <script>
+        function clearAll() {
+            $("#form0").trigger("reset");
+        }
+    </script>
+}
+

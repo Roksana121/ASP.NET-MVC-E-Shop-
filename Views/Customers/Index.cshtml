@@ -1,0 +1,41 @@
+﻿@model IEnumerable<E_Shop.Models.Customer>
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="row">
+    <div class="col">
+        <h2>Customer Information</h2>
+        <div class="d-flex justify-content-end">
+            <a href="@Url.Action("Create","Customers")" class="btn btn-outline-primary btn-sm mb-2"><i class="bi bi-plus"></i> Add New</a>
+        </div>
+        <table class="table table-bordered table-striped table-sm table-hover">
+            <thead class="table-light">
+                <tr>
+                    <th>@Html.DisplayNameFor(x => x.CustomerName)</th>
+                    <th>@Html.DisplayNameFor(x => x.Email)</th>
+                    <th>@Html.DisplayNameFor(x => x.Address)</th>
+                    <th>@Html.DisplayNameFor(x => x.PhoneNo)</th>
+                   
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(x => item.CustomerName)</td>
+                        <td>@Html.DisplayFor(x => item.Email)</td>
+                        <td>@Html.DisplayFor(x => item.Address)</td>
+                        <td>@Html.DisplayFor(x => item.PhoneNo)</td>
+                        
+                        <td>
+                            <a href="@Url.Action("Edit","Customers",new { id=item.CustomerId})" class="btn btn-success btn-sm"><i class="bi bi-pencil"></i> Edit</a>
+                            <a href="@Url.Action("Delete","Customers",new { id = item.CustomerId })" class="btn btn-danger btn-sm" onclick="return confirm('Are you sure to delete this product?')"><i class="bi bi-trash"></i>Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
